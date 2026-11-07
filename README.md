@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayyan Galih Indarto</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Rayynghh">
-    <img src="https://komarev.com/ghpvc/?username=Rayynghh&label=Profile%20views&color=00FFFF&style=flat-square" alt="Rayynghh's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 Hi, I’m Rayyan! 👋
 I’m an Informatics double-degree student at Universitas Islam Indonesia and Nanjing Xiaozhuang University, currently based in Nanjing, China. I build full-stack web applications and care about clean, secure, and maintainable code.
