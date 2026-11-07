@@ -9,7 +9,7 @@
 ## 📌 About Me
 Hi, I’m Rayyan! 👋
 I’m an Informatics double-degree student at Universitas Islam Indonesia and Nanjing Xiaozhuang University, currently based in Nanjing, China. I build full-stack web applications and care about clean, secure, and maintainable code.
-🔭 Projects: MindHub (AI-powered workspace platform), Eximgo (company CMS), Pulih (rehabilitation management app)
+<br/> 🔭 Projects: MindHub (AI-powered workspace platform), Eximgo (company CMS), Pulih (rehabilitation management app)
 🛠️ Tech stack: JavaScript, TypeScript, PHP, Java, Python, SQL, React, Next.js, Supabase, MySQL, Docker
 👩‍🏫 Also: Lab assistant and teaching assistant for Logic Programming
 🌱 Currently: Learning and growing through real-world projects
